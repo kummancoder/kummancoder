@@ -31,13 +31,13 @@
 
   <!-- Row 1: Two cards side by side -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kummancoder&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kummancoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kummancoder&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kummancoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   </div>
 
   <!-- Row 2: Streak centered below -->
   <div style="margin-top: 20px;">
-    <img height="170" src="https://streak-stats.demolab.com?user=kummancoder&hide_border=true" alt="GitHub Streak" />
+    <img height="170" src="https://streak-stats.demolab.com?user=kummancoder&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
   </div>
 
 </div>
