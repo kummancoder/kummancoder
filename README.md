@@ -79,4 +79,8 @@
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Model-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Toolkit-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+
 
