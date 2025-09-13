@@ -40,7 +40,17 @@
     <img height="170" src="https://streak-stats.demolab.com?user=kummancoder&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
   </div>
 
+
+
+
 </div>
+
+ <!-- 🏆 GitHub Trophies (centered) -->
+<center>
+  <img src="https://github-profile-trophy.vercel.app/?username=kummancoder&theme=tokyonight&title=Commit,Followers,Stars,Repositories&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</center>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
