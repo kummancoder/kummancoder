@@ -74,7 +74,6 @@
 ![Prisma Studio](https://img.shields.io/badge/Prisma_Studio-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -83,9 +82,6 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Large_Language_Model-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Speech-to-Text](https://img.shields.io/badge/Speech_to_Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Toolkit-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 
