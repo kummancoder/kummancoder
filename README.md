@@ -12,7 +12,7 @@
 
  - 🌱 I’m currently learning **DevOps**
 
- - 💬 Ask me about **Web Development, DSA**
+ - 💬 Ask me about **Web Development, DevOps and DSA**
 
  - 📫 How to reach me **kummandhakad@gmail.com**
 
